@@ -1,0 +1,17 @@
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\ODataClientNopCommerce.exe.config
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\ODataClientNopCommerce.exe
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\ODataClientNopCommerce.pdb
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Client.dll
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.Spatial.dll
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Client.xml
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Microsoft.Spatial.xml
+C:\Users\ppora\Downloads\ODataClientNopCommerce\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ppora\Downloads\ODataClientNopCommerce\obj\Debug\ODataClientNopCommerce.csprojAssemblyReference.cache
+C:\Users\ppora\Downloads\ODataClientNopCommerce\obj\Debug\ODataClientNopCommerce.csproj.CopyComplete
+C:\Users\ppora\Downloads\ODataClientNopCommerce\obj\Debug\ODataClientNopCommerce.exe
+C:\Users\ppora\Downloads\ODataClientNopCommerce\obj\Debug\ODataClientNopCommerce.pdb
